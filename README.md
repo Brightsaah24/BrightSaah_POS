@@ -135,7 +135,7 @@ src/
 <img width="1364" height="841" alt="customers_screen" src="https://github.com/user-attachments/assets/b037b89b-43a4-4023-a891-f23fc40d64c2" />
 
 5. Inventory Screen
-   <img width="1364" height="841" alt="inventory_screen" src="https://github.com/user-attachments/assets/ec88d3ba-7912-4491-8f48-d682b7835fa6" />
+  <img width="1364" height="841" alt="inventory_screen" src="https://github.com/user-attachments/assets/d5e1e114-aba8-48a7-ac24-ac499ee9e749" />
 
 
 
